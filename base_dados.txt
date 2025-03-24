@@ -1,0 +1,74 @@
+﻿HP LaserJet Pro M404 
+1. Não imprime e o LED de Attention fica piscando 
+● Peça necessária: Fuser Unit (Conjunto de Fusor) – Código específico para HP LaserJet Pro M404. 
+● Causa provável: O fusor queimou ou perdeu eficiência térmica, impedindo a fixação do toner no papel. 
+● Procedimento de troca: 
+1. Desligar a impressora e desconectar todos os cabos. 
+2. Remover o painel traseiro para acessar o fusor. 
+3. Soltar os parafusos e desconectar os cabos do fusor antigo. 
+4. Instalar o novo fusor e reconectar os cabos. 
+5. Ligar a impressora e testar uma impressão. 
+2. Não imprime e exibe erro "Scanner Error" 
+● Peça necessária: Laser Scanner Unit (LSU) – Módulo de laser compatível com HP LaserJet Pro M404. 
+● Causa provável: A unidade de laser parou de funcionar, impedindo a formação da imagem no cilindro. 
+● Procedimento de troca: 
+1. Desligar a impressora e remover a tampa lateral. 
+2. Localizar a Laser Scanner Unit e desconectar o cabo flat. 
+3. Remover os parafusos e substituir a peça por uma nova. 
+4. Reconectar o cabo flat, remontar a impressora e testar. 
+3. Ruído alto durante a impressão vindo da parte traseira 
+● Peça necessária: Fuser Gears (Engrenagens do Fusor) – Conjunto de engrenagens compatível. 
+● Causa provável: Desgaste das engrenagens do fusor, resultando em atrito excessivo e barulho. 
+● Procedimento de troca: 
+1. Remover o fusor conforme descrito no item 1. 
+2. Identificar as engrenagens danificadas e retirá-las. 
+3. Substituir por engrenagens novas, respeitando a ordem correta de encaixe. 4. Remontar o fusor e testar a impressora. 
+4. Ruído alto e vibrações ao puxar o papel
+● Peça necessária: Motor de tração do papel ou engrenagens do sistema de alimentação. 
+● Causa provável: Folga ou dano nas engrenagens do motor de alimentação de papel. 
+● Procedimento de troca: 
+1. Remover a tampa lateral para acessar o motor de alimentação. 
+2. Identificar o problema e substituir o motor ou engrenagens danificadas. 3. Recolocar os componentes e testar a alimentação de papel. 
+Epson EcoTank L3150 
+1. Impressão com faixas brancas ou falhas de tinta 
+● Peça necessária: Printhead (Cabeça de Impressão) – Compatível com Epson EcoTank L3150. 
+● Causa provável: Printhead entupida ou danificada, impedindo a passagem de tinta. ● Procedimento de troca: 
+1. Abrir a tampa superior para acessar o carro de impressão. 
+2. Remover os parafusos e desconectar o cabo flat da printhead. 
+3. Instalar a nova cabeça de impressão, reconectar o cabo e testar. 
+2. Impressão borrada ou desalinhada mesmo após limpeza 
+● Peça necessária: Pump Cap Station (Bomba de limpeza e cap station). ● Causa provável: A bomba de limpeza está com defeito, impedindo a manutenção correta da cabeça de impressão. 
+● Procedimento de troca: 
+1. Acessar a área de limpeza da impressora e remover a bomba defeituosa. 2. Substituir pela nova peça e reconectar os tubos de tinta. 
+3. Testar a impressora realizando uma limpeza automática. 
+3. Vazamento de tinta nos tanques 
+● Peça necessária: Tanque de tinta ou tampa de vedação nova. ● Causa provável: Tanque trincado ou tampa de vedação ressecada. ● Procedimento de troca: 
+1. Esvaziar o tanque (se necessário) e remover a peça danificada. 
+2. Instalar o novo tanque ou tampa e testar o fluxo de tinta. 
+4. Vazamento interno de tinta em pequenos pingos
+● Peça necessária: Mangueiras de tinta novas ou conectores de vedação. ● Causa provável: Ressecamento ou rompimento das mangueiras internas de tinta. ● Procedimento de troca: 
+1. Acessar o sistema de abastecimento e identificar as mangueiras danificadas. 2. Substituir pelas novas mangueiras e garantir vedação adequada. 
+3. Testar a impressora para confirmar a ausência de vazamento. 
+Canon PIXMA G3111 
+1. Não imprime mesmo com tanques cheios 
+● Peça necessária: Printhead (Cabeça de Impressão) compatível com a série G. ● Causa provável: Cabeça de impressão queimada ou obstruída. 
+● Procedimento de troca: 
+1. Abrir a tampa superior e acessar o carro de impressão. 
+2. Retirar os cartuchos e remover a printhead antiga. 
+3. Instalar a nova peça e testar a impressão. 
+2. Não imprime e o LED de alarme fica piscando 
+● Peça necessária: Waste Ink Pad (Absorvedor de tinta residual) + reset do contador. 
+● Causa provável: Almofada de tinta saturada, causando bloqueio de impressão. ● Procedimento de troca: 
+1. Remover a base ou a tampa traseira para acessar o absorvedor. 
+2. Substituir a almofada usada pela nova. 
+3. Resetar o contador via software e testar. 
+3. Alimentação de papel irregular (folhas puxadas tortas) 
+● Peça necessária: Paper Feed Rollers (Rolos de tração do papel). ● Causa provável: Rolos de alimentação desgastados, causando puxada desigual do papel. 
+● Procedimento de troca: 
+1. Acessar a área dos rolos e remover os antigos. 
+2. Instalar os novos rolos e garantir encaixe correto. 
+3. Testar alimentação de papel. 
+4. Atolamento frequente na bandeja de entrada
+● Peça necessária: Motor de alimentação ou engrenagens do conjunto de tração. ● Causa provável: Motor de alimentação falhando ou engrenagens gastas. ● Procedimento de troca: 
+1. Acessar a área do motor ou engrenagens de tração. 
+2. Substituir a peça com defeito e testar a alimentação de papel.
